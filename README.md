@@ -1,4 +1,4 @@
-# VQA Demo
+# VQA- Visual Question and Answering
 
 **Updated** to work with Keras 2.0 and TF 1.2 and Spacy 2.0
 This code is meant for education thus focus is on simplicity and not speed.
